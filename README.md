@@ -39,7 +39,9 @@
 
 I am Galih, a builder and developer who focuses on observing patterns, learning continuously, and building functional software systems. Most of my work right now is centered around Galyarder Labs, where I design and implement autonomous AI agents, advanced workflow automations, and context-aware knowledge systems. I am highly committed to building systems that are not only immediately useful but also structured cleanly so they are easy to understand, maintain, and expand as the project evolves over time.
 
-My current technical direction spans a variety of modern domains, including browser automation, local-first workflows, and dedicated dashboards for internal operations. I also work with cryptography and Web3 when decentralized verification matters. In all my projects, I value useful output over noise, clear state and logs, small iterations that can actually ship, and tools that support human judgment, with a strong commitment to ownership, patience, and continuous long-term improvement.
+My current technical direction spans a variety of modern domains, including browser automation, local-first workflows, and dedicated dashboards for internal operations. I spend a significant amount of time crafting tools that automate repetitive tasks and optimize operational workflows, as well as developing custom finance and operations systems that provide clarity to business processes. When ownership, transparency, or decentralized verification is required, I also work with cryptography and Web3 technologies to build resilient systems.
+
+In all my projects, I prioritize concrete utility and quality over speculative noise. I believe that good software relies on having a clear state, comprehensive logs, robust tests, and thorough code reviews. I prefer shipping in small, vertical iterations that deliver value quickly rather than building over-engineered systems. Ultimately, I design tools to support human judgment and believe in fostering true ownership, patience, and continuous long-term improvement in every codebase I touch.
 
 </div>
 
@@ -97,19 +99,23 @@ My current technical direction spans a variety of modern domains, including brow
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhamadgalihsaputra&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
 
 
-<div align="center">
-  <img src="./assets/images/Stack.svg">
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,vue,py,nodejs,go,rust,postgres,redis,supabase,docker,linux,nginx,terraform,solidity,git,github,figma&perline=6" />
-</div>
+<table align="center">
+  <tr>
+    <!-- Skills Left -->
+    <td valign="top" width="45%">
+      <img src="./assets/images/Stack.svg">
+      </br>
+      </br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,vue,py,nodejs,go,rust,postgres,redis,supabase,docker,linux,nginx,terraform,solidity,git,github,figma" /><br>
+    </td>
+    <!---->
+    <td valign="top" width="55%">
+      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=galyarderlabs&repo=galyarder-framework&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
 
-<br><br>
-
-<div align="center">
-  <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=galyarderlabs&repo=galyarder-framework&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
-  <br><br>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=muhamadgalihsaputra&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhamadgalihsaputra&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
