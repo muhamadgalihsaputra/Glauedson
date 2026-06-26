@@ -37,13 +37,14 @@
 
 <div align="justify">
 
-I’m Galih — someone who observes, learns, and builds. Most of my work right now is centered around Galyarder Labs, where I focus on developing AI agents, workflow automation, knowledge systems, finance / operations tools, and practical web products. I care about building systems that are useful, understandable, and sustainable.
+I am Galih, a builder and developer who focuses on observing patterns, learning continuously, and building functional software systems. Most of my work right now is centered around Galyarder Labs, where I design and implement autonomous AI agents, advanced workflow automations, and context-aware knowledge systems. I am highly committed to building systems that are not only immediately useful but also structured cleanly so they are easy to understand, maintain, and expand as the project evolves over time.
 
-My current direction is focused on AI agents, context-aware tools, browser automation, and local-first workflows. I also build dashboards, internal tools, and work with cryptography or Web3 when ownership and verification matter. 
+My current technical direction spans a variety of modern domains, including browser automation, local-first workflows, and dedicated dashboards for internal operations. I spend a significant amount of time crafting tools that automate repetitive tasks and optimize operational workflows, as well as developing custom finance and operations systems that provide clarity to business processes. When ownership, transparency, or decentralized verification is required, I also work with cryptography and Web3 technologies to build resilient systems.
 
-In everything I build, I value useful output over noise, clear state and logs, small iterations that can actually ship, and tools that support human judgment. I believe in ownership, patience, and long-term improvement.
+In all my projects, I prioritize concrete utility and quality over speculative noise. I believe that good software relies on having a clear state, comprehensive logs, robust tests, and thorough code reviews. I prefer shipping in small, vertical iterations that deliver value quickly rather than building over-engineered systems. Ultimately, I design tools to support human judgment and believe in fostering true ownership, patience, and continuous long-term improvement in every codebase I touch.
 
 </div>
+<br clear="left" />
 
 </br>
 </br>
