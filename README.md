@@ -50,7 +50,7 @@ In all my projects, I prioritize concrete utility and quality over speculative n
 
 <!-- badges -->
 <div align="center">
-  <strong>You can Click here</strong>
+  <strong>Connect</strong>
   </br>
 
   <!-- X -->
@@ -83,9 +83,9 @@ In all my projects, I prioritize concrete utility and quality over speculative n
 
 > [!Caution]
 >
-> Code is never finished, it only gets **better**.
+> Systems only work when every part operates with absolute precision.
 >
-> What you see here is built with **practice**, **curiosity**, and **persistence**.
+> Designed with intent, built for persistence.
 
 </br>
 
