@@ -1,5 +1,5 @@
 <!-- Banner  -->
-<a href="https://github.com/Glauedson">
+<a href="https://github.com/muhamadgalihsaputra">
   <img src="assets/images/Banner Persona.svg" alt="Banner"  style="width:100%; height:auto"/>
 </a>
 
@@ -18,7 +18,7 @@
         src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=eye&color=000000&labelColor=FF1001&logoColor=ffffff&label=Profile+Views&style=for-the-badge&query=%24.views&url=https://views.igorkowalczyk.dev/api/json/muhamadgalihsaputra&cacheSeconds=0" /> 
   </a>
   <img src="https://views.igorkowalczyk.dev/api/badge/muhamadgalihsaputra" width="1" height="1" style="opacity: 0; position: absolute;" />
-  <a href="https://github.com/Glauedson?tab=followers">
+  <a href="https://github.com/muhamadgalihsaputra?tab=followers">
     <img width="150px" 
         alt="Followers" 
         title="Github Followers" 
@@ -53,24 +53,24 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
   <strong>You can Click here</strong>
   </br>
 
-  <!-- Pinterest -->
-  <a href="https://br.pinterest.com/muhamadgalihsaputra_/" target="_blank">
-    <img width="130px" 
-          src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=Pinterest&logoColor=white" 
-          alt="Pinterest"
-          title="My Pinterest"/>
+  <!-- X -->
+  <a href="https://x.com/galyarder" target="_blank">
+    <img width="65px" 
+          src="https://img.shields.io/badge/X-FF0000?style=for-the-badge&logo=x&logoColor=white" 
+          alt="X"
+          title="My X"/>
   </a>
   <!-- Linkedin -->
-  <a href="https://www.linkedin.com/in/muhamadgalihsaputra-carlos-89875b258/" target="_blank">
-    <img width="100px" 
+  <a href="https://linkedin.com/in/muhamad-galih-saputra" target="_blank">
+    <img width="110px" 
           src="https://img.shields.io/badge/Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" 
           alt="Linkedin"
           title="My Linkedin"/>
   </a>
   <!-- Mail  -->
-  <a href="https://mail.google.com/mail/?view=cm&to=mhmdgalihsaputra249@gmail.com" target="_blank">
-    <img width="97px" 
-          src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" 
+  <a href="mailto:muhamadgalihsaputra@proton.me" target="_blank">
+    <img width="105px" 
+          src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=protonmail&logoColor=white" 
           alt="E-mail"
           title="My E-mail"/>
   </a>
