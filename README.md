@@ -1,12 +1,3 @@
-<!--
-    Dear user using my README as a base
-    to create your own, I’m happy to authorize its use 
-    and I’m glad you liked it! I just kindly ask for one thing:
-
-    Please, leave a star on my README it would truly make my day :)
-    GitHub: https://github.com/Glauedson
--->
-
 <!-- Banner  -->
 <a href="https://github.com/Glauedson">
   <img src="assets/images/Banner Persona.svg" alt="Banner"  style="width:100%; height:auto"/>
@@ -14,13 +5,13 @@
 
 <div align="center">
 
-  <a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+  <a href="https://api.github-star-counter.workers.dev/user/muhamadgalihsaputra">
     <img width="120px" 
         alt="Stars" 
         title="Stars Profile" 
-        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Glauedson" /> 
+        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/muhamadgalihsaputra" /> 
   </a>
-  <a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+  <a href="https://api.github-star-counter.workers.dev/user/muhamadgalihsaputra">
     <img width="111px" 
         alt="forks" 
         title="Forks Repository" 
@@ -30,7 +21,7 @@
     <img width="150px" 
         alt="Followers" 
         title="Github Followers" 
-        src="https://custom-icon-badges.herokuapp.com/github/followers/Glauedson?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+        src="https://custom-icon-badges.herokuapp.com/github/followers/muhamadgalihsaputra?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
   </a>
 </div>
 
@@ -62,21 +53,21 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
   </br>
 
   <!-- Pinterest -->
-  <a href="https://br.pinterest.com/Glauedson_/" target="_blank">
+  <a href="https://br.pinterest.com/muhamadgalihsaputra_/" target="_blank">
     <img width="130px" 
           src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=Pinterest&logoColor=white" 
           alt="Pinterest"
           title="My Pinterest"/>
   </a>
   <!-- Linkedin -->
-  <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhamadgalihsaputra-carlos-89875b258/" target="_blank">
     <img width="100px" 
           src="https://img.shields.io/badge/Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" 
           alt="Linkedin"
           title="My Linkedin"/>
   </a>
-  <!-- GMail  -->
-  <a href="https://mail.google.com/mail/?view=cm&to=glauedson.dev@gmail.com" target="_blank">
+  <!-- Mail  -->
+  <a href="https://mail.google.com/mail/?view=cm&to=mhmdgalihsaputra249@gmail.com" target="_blank">
     <img width="97px" 
           src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" 
           alt="E-mail"
@@ -104,7 +95,7 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
 </br>
 </div>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glauedson&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhamadgalihsaputra&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
 
 
 <table align="center">
@@ -121,17 +112,11 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
     </td>
     <!---->
     <td valign="top" width="55%">
-      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=glauedson&repo=lembra-plus-note-app&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
+      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=galyarderlabs&repo=galyarder-framework&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhamadgalihsaputra&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>
 
-
-
-
-
-<!--
 <img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
--->
