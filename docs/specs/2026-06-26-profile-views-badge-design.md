@@ -13,3 +13,4 @@ Replace the forks badge in the `README.md` file with a profile views counter bad
   - Update target URL to use the dynamic JSON badge endpoint pointing to `https://views.igorkowalczyk.dev/api/json/muhamadgalihsaputra`.
   - Update badge `width` attribute from `111px` to `165px` to match the new text length without squishing/stretching.
   - Update the link `href` of the badge to the user's profile `https://github.com/muhamadgalihsaputra`.
+  - Add a hidden `1x1` pixel tracking image pointing to the increment endpoint `https://views.igorkowalczyk.dev/api/badge/muhamadgalihsaputra` to ensure the view counter increments upon page load, as the dynamic badge itself calls a read-only endpoint.
