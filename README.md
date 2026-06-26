@@ -1,7 +1,9 @@
 <!-- Banner  -->
-<a href="https://github.com/muhamadgalihsaputra">
-  <img src="assets/images/banner.png" alt="Banner"  style="width:100%; height:auto"/>
-</a>
+<div align="center">
+  <a href="https://github.com/muhamadgalihsaputra">
+    <img src="assets/images/banner.png" alt="Banner" width="70%" />
+  </a>
+</div>
 
 <div align="center">
 
