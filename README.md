@@ -17,7 +17,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/muhamadgalihsaputra">
-    <img width="165px" 
+    <img width="100px" 
         alt="Profile Views" 
         title="Profile Views" 
         src="https://komarev.com/ghpvc/?username=muhamadgalihsaputra&style=for-the-badge&color=FF1001&label=VIEWS&abbreviated=true" /> 
